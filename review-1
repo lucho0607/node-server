@@ -1,0 +1,18 @@
+#¿Qué es mi producto y para que sirve?
+
+Aqui tenemos una estructura de datos que almacena
+una lista de tareas o trabajos que deben ejecutarse
+de la manera que lo solicite el cliente, usamos la 
+tecnologia node.js que es un entorno de tiempo de 
+ejecucion de js que usamos gneralmente para crear 
+aplicaciones de servidor y realizar tareas de 
+programacion asincrona.
+
+#¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
+
+- Crear nuevos productos
+- Podemos usar la lista de tareas como una fila de trabajos 
+para procesar 
+- puedes usar la lista de tareas para programar tareas que 
+se deben ejcutar de manera recurrente.
+- puede ayudarnos con la sincronizacion de operaciones.
